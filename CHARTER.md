@@ -11,11 +11,16 @@ The working group *(WG)* consists of:
   - Enforce the [Code of Conduct](CODE_OF_CONDUCT.md)
   - Have administrative rights over the GitHub org, communication channels, and other community-owned resources
   - Publicly record decisions made by the WG in the [wg-decisions](wg-decisions) folder
-* Any individual who wants to join and passes a review of their PR sent to [WG_MEMBERS.md](WG_MEMBERS.md))
+* Individuals who want to join the WG and pass a review of their PR sent to [WG_MEMBERS.md](WG_MEMBERS.md)), with approval depending on any one or more of the below requirements:
+  - They contribute with code, documentation, artwork, articles, videos, talks, or similar additions to the ContainerSSH ecosystem
+  - They are an active user of ContainerSSH (end user, product builder, researcher, etc. - please describe your use case in the PR, you do not have to mention any company names or details)
+  - They are actively helping community members on any of the official ContainerSSH channels
 
 ### Termination of WG membership
 
 A Working Group member *(including chairs)* that does not participate in working group matters *without reason and notice* (voting and/or meetings) for 3 times in a row leaves the working group automatically as we can assume they are not interested in being a member of the WG anymore. This ensures that we do not have a corpus of inactive members with voting rights.
+
+Additionally, as stated in the [Code of Conduct](CODE_OF_CONDUCT.md), chairs can remove a WG member if their behavior is clearly disruptive to the community.
 
 ## Decision Proposals
 
