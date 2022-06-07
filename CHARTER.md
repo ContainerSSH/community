@@ -7,7 +7,7 @@ This charter covers **important processes and decisions that impact the whole or
 ## Working Group
 
 The working group *(WG)* consists of:
-* 3 chairs with equal rights who
+* 4 chairs with equal rights who
   - Enforce the [Code of Conduct](CODE_OF_CONDUCT.md)
   - Have administrative rights over the GitHub org, communication channels, and other community-owned resources
   - Publicly record decisions made by the WG in the [wg-decisions](wg-decisions) folder
