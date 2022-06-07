@@ -9,6 +9,7 @@ By adding your name to this file you confirm that you understand and agree to th
 * [Bence Santha](https://github.com/bencurio)
 * [Janos Bonic](https://github.com/janosdebugs)
 * [Sanja Bonic](https://github.com/sanjacodes)
+* [Nikos Tsipinakis](https://github.com/tsipinakis)
 
 ## Members
 
