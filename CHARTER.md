@@ -11,7 +11,7 @@ The working group *(WG)* consists of:
   - Enforce the [Code of Conduct](CODE_OF_CONDUCT.md)
   - Have administrative rights over the GitHub org, communication channels, and other community-owned resources
   - Publicly record decisions made by the WG in the [wg-decisions](wg-decisions) folder
-* Individuals who want to join the WG and pass a review of their PR sent to [WG_MEMBERS.md](WG_MEMBERS.md)), with approval depending on any one or more of the below requirements:
+* Individuals who want to join the WG and pass a review of their PR sent to [WG_MEMBERS.md](WG_MEMBERS.md), with approval depending on any one or more of the below requirements:
   - They contribute with code, documentation, artwork, articles, videos, talks, or similar additions to the ContainerSSH ecosystem
   - They are an active user of ContainerSSH (end user, product builder, researcher, etc. - please describe your use case in the PR, you do not have to mention any company names or details)
   - They are actively helping community members on any of the official ContainerSSH channels
