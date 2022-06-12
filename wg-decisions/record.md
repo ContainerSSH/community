@@ -18,6 +18,6 @@ The IP policy of the CNCF requires projects to use the Apache-2.0 license for co
 @tsipinakis
 @bencurio
 
-### Voted agains:
+### Voted against:
 
 *none*
